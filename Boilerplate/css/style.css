@@ -1,0 +1,27 @@
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGx6LWf5sg7K18YJO-M7y4D5x_rnbPYwWPZXsdht5YJvvkZlxUxA);
+  background-repeat: no-repeat;
+  background-size: 2000px;
+}
+
+h1 {
+  color: Yellow;
+  margin-left: 20px;
+  text-align: center;
+}
+
+h2 {
+  color: Blue;
+  margin-left: 25px;
+}
+#container {
+  height: 400px;
+  width: 400px;
+  border: solid 1px;
+  background-color: orange;
+  opacity: 0.63;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 750px;
+}
+
